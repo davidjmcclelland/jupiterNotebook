@@ -1,4 +1,4 @@
-#Trying out Jupiter Notebook
+# Trying out Jupiter Notebook
 
 • How flexible is it to show live code from different languages?
 • How much project overhead is involved in getting it up and running?
